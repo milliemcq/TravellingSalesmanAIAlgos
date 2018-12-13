@@ -1,0 +1,4 @@
+NAME = AISearchtestcase,
+TOURSIZE = 11
+LENGTH = 76
+[10, 4, 7, 6, 1, 11, 0, 5, 9, 2, 8, 3]
